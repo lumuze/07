@@ -1,0 +1,16 @@
+table{
+    background-color: #a8dadc;
+    border: 1px solid #000 ;
+    border-collapse: collapse;
+}
+.imgtabla{
+    width: 90px;
+}
+th{
+    color: black;
+    font-size: 1.4em;
+}
+td{
+    border:1px solid #000;
+    text-align: center;
+}

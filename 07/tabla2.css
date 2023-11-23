@@ -1,0 +1,21 @@
+table{
+    background-color: darkgrey;
+    border: 1px solid #000;
+    border-collapse: collapse;
+
+}
+.tablaimg{
+    width: 90px;
+}
+th{
+    color: lightslategrey;
+    font-size: 1.4em;
+}
+td{
+    border: 1px solid #000;
+    text-align: center;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
